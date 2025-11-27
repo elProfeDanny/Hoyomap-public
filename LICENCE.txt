@@ -1,0 +1,2 @@
+MIT License - HoyoMap 2025
+Código abierto para fines educativos y de transparencia.
